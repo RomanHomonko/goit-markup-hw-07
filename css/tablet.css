@@ -1,0 +1,46 @@
+@media screen and (min-width: 768px) {
+    .container {
+        min-width: 768px;
+    }
+    /* --------------------HEADER-------------------- */
+    .header-list {
+        display: flex;
+    }
+    .header-contacts {
+        display: block;
+    }
+     /* ----------------------HERO---------------------- */
+
+     /* --------------------STRATEGY-------------------- */
+     /* --------------------WORKS-------------------- */
+     /* --------------------TEAM-------------------- */
+
+    .team-container {
+  
+        max-width: 582px;
+        padding-bottom: 104px;
+    }
+    .team-list {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .team-item:not(:last-child) {
+        margin-bottom: 64px;
+    }
+
+
+
+     /* --------------------CUSTOMERS-------------------- */
+     /* --------------------GALERY-------------------- */
+
+
+
+     /* --------------------FOOTER-------------------- */
+
+
+
+
+
+
+
+  }

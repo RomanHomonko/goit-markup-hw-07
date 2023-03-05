@@ -1,0 +1,59 @@
+@media screen and (min-width: 1200px) {
+    .container {
+        min-width: 1200px;
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }
+    /* --------------------HEADER-------------------- */
+    .header-contacts {
+        display: flex;
+    }
+    
+    /* ----------------------HERO---------------------- */
+
+    /* --------------------STRATEGY-------------------- */
+
+    .strategy-container {
+    display: flex;
+    }
+    .strategy-list {
+        display: flex;
+    }
+    .strategy-icon {
+        display: flex;
+    }
+    .strategy-title {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+    }
+        /* --------------------WORKS-------------------- */
+
+    .works {
+        display: block;
+    }
+    /* --------------------TEAM-------------------- */
+
+    .team-container {
+      max-width: 1200px;
+      padding-left: 15px;
+      padding-right: 15px;
+    }
+    .team-list {
+        display: flex;
+        justify-content: center;
+        gap: 24px;
+    }
+    /* --------------------CUSTOMERS-------------------- */
+
+
+
+    /* --------------------GALERY-------------------- */
+
+
+    /* --------------------FOOTER-------------------- */
+
+
+
+
+}
